@@ -3,3 +3,8 @@ window.addEventListener("scroll", function(){
     header.classList.toggle("sticky", window.scrollY > 0);
 })
 
+function toggle() {
+    let header = this.document.querySelector("header");
+    header.classList.toggle("active");
+}
+
