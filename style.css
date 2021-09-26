@@ -337,6 +337,7 @@ p {
 }
 .copyright a {
     color: #fff;
+    text-decoration: none;
 }
 .toggle {
     display: none;
