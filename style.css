@@ -341,7 +341,7 @@ p {
 .toggle {
     display: none;
 }
-@media (max-width: 992px) {
+@media (max-width: 1000px) {
     .toggle {
         display: block;
         position: relative;
@@ -370,12 +370,69 @@ p {
         z-index: 1;
         transition: 0.5s;
     }
-}
-header {
-    padding: 5px 50px;
-    background: #fff;
-}
-header .logo, 
-header ul li a {
-    color: #000;
+    header,
+    header.sticky {
+        padding: 5px 50px;
+        background: #fff;
+    }
+    header ul {
+        position: absolute;
+        top: 50px;
+        left: 0;
+        width: 100%;
+        height: 100vh;
+        text-align: center;
+        overflow: auto;
+        background: #fff;
+        visibility: hidden;
+        opacity: 0;
+    }
+    header.active ul {
+        visibility: visible;
+        opacity: 1;
+        display: block;
+        padding-top: 20px;
+    }
+    header.active ul li a {
+        display: inline-block;
+        margin: 10px 0;
+        font-size: 20px;
+    }
+    header .logo, 
+    header ul li a {
+        color: #000;
+    }
+    .banner {
+        background-position: center;
+    }
+    .banner h2 {
+        font-size: 60px;
+        padding: 0 50px;
+    }
+    .sec {
+        padding: 100px 50px 50px 50px;
+    }
+    .palvelut .box {
+        width: 100%;
+    }
+    .stats {
+        padding-top: 250px;
+    }
+    .rivi100 {
+        flex-direction: column;
+    }
+    .lomake .rivi100 .inputBox50,
+    .lomake .rivi100 .inputBox100 {
+        width: 100%;
+        margin: 0;
+    }
+    .sci {
+        margin: 20px;
+    }
+    .sci ul li a img {
+        font-size: 24px;
+    }
+    h3 {
+        font-size: 36px;
+    }
 }
