@@ -69,7 +69,7 @@ header.sticky ul li a {
     position: relative;
     width: 100%;
     min-height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.70), rgba(0,0,0,0.70)), url('./images/bg.jpg');
+    background-image: linear-gradient(rgba(0,0,0,0.70), rgba(0,0,0,0.70)), url('bg.jpg');
     background-size: cover;
     display: flex;
     justify-content: center;
