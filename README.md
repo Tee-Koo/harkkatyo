@@ -11,5 +11,7 @@
 	
 4. Mitä vaikeuksia kohtasit ja miten niistä selvisit?<br>
 -Matkalla tietenkin tuli kaikenlaisia haasteita, rivit missä sattuu, menun saaminen esiin, kun
-ruutu on pieni, kaikenlaisia pientä hieromista loppuvaiheessa.<br>
--Google monesti hyvä kaveri näissä ongelmatilanteissa.
+ruutu on pieni, kaikenlaisia pientä hieromista loppuvaiheessa, jotta näkyisi oikein.<br>
+-Google monesti hyvä kaveri näissä ongelmatilanteissa.<br>
+-Ehkä se kokeilu ja erehdys on se opettavin
+
