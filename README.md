@@ -1,4 +1,4 @@
-# harkkatyo
+# Harkkatyö
 
 1. Kenelle sivusto on suunnattu?
 	-Sivusto on tehty pienelle, kuvitteelliselle tapahtumajärjestäjä yritykselle ja sen asiakkaille
